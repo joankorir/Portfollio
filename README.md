@@ -8,11 +8,9 @@ Does not need any code to open up this app
 ## Known
 { It gives a background of me .}
 ## Technologies Used
-{I used css language. It easier since it gives its styling equipments.}
-## Support and contact details
-{Any problem arising contact me.}
-### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+{I used css language. It easier since it gives its styling equipment}
+##link to live site on GitHub Pages{https://github.com/joankorir/independent-.project.git}
+### License.}*
 Copyright (c) {2018} **{Joan korir}**
 
 Licensing
