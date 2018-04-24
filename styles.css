@@ -12,7 +12,7 @@ body{ background-color:skyblue;
 }
 h2{text align : centre;
    column-rule-width: thick;
-   color: lightblue;
+   color: violet;
 }
 h4 {text-shadow: 2px 2px 5px red;
    font-style: italic;
