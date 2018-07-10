@@ -1,17 +1,29 @@
 # Portfollio
 
+###### :smiley: This is all about my Portfollio. By JOANKORIR
+
 ## Description
 ###### About my Portfollio
 
 It all about myself and the projects i have ever done.It contains the links to github repo of all the  projects i have done nonetheless apps i have created.
+
 ## Setup/Installation Requirements
-###### Setup :point_down
+###### Setup :point_down:
+
+    -git clone https://github.com/joankorir/Portfollio
+
 ## Known
-{ It gives a background of me .}
+
+
+ None errors.
+
 ## Technologies Used
-{I used css language. It easier since it gives its styling equipment}
-##link to live site on GitHub Pages{https://github.com/joankorir/independent-.project.git}
-### License.}*
+
+  - CSS
+
+##link to live site on GitHub Pages{https://github.com/joankorir/Portfollio}
+
+### License.*
 Copyright (c) {2018} **{Joan korir}**
 
 Licensing
