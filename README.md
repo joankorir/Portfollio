@@ -21,7 +21,7 @@ It all about myself and the projects i have ever done.It contains the links to g
 
   - CSS
 
-##link to live site on GitHub Pages{https://github.com/joankorir/Portfollio}
+##  link to live site on GitHub Pages{https://github.com/joankorir/Portfollio}
 
 ### License.*
 Copyright (c) {2018} **{Joan korir}**
