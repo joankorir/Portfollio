@@ -1,10 +1,11 @@
 # Portfollio
-#### {Uses css styles.summary of week 1}, {23 April 2018}
-#### By **{JOAN KORIR}**
+
 ## Description
-{Complies the summary of what i have been learning over the whole of week one.All through it i have used css styling. }
+###### About my Portfollio
+
+It all about myself and the projects i have ever done.It contains the links to github repo of all the  projects i have done nonetheless apps i have created.
 ## Setup/Installation Requirements
-Does not need any code to open up this app
+###### Setup :point_down
 ## Known
 { It gives a background of me .}
 ## Technologies Used
