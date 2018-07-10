@@ -1,4 +1,4 @@
-# {independent project}
+# Portfollio
 #### {Uses css styles.summary of week 1}, {23 April 2018}
 #### By **{JOAN KORIR}**
 ## Description
